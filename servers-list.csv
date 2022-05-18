@@ -1,0 +1,3 @@
+host,ip,port,comment
+"ssh-server",127.0.0.1,22,"generic ssh server"
+"ssh-server",127.0.0.1,22,"generic ssh server"
